@@ -6,6 +6,13 @@ This project aims to create an easy way to annotate genomes.
 
 Personally suggested that input transcripts from Hiast2+TransDecoder(cufflinks_gtf_to_alignment_gff3.pl) to PASA
 
+###########update#################
+V3:
+RNA-based: Hisat2+TransDdecoder
+
+Ab-initio: Helixer
+
+Homology: Complete structure from Miniprot
 
 ###########update#################
 
